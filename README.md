@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rebecca Tsang</h1>
 <h3 align="center">A passionate data scientist with a background in geology and gemology</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsangrebecca" alt="tsangrebecca" /></a> </p>
-
 - 🔭 I recently worked on [Predicting whether a water pump in Tanzania needs a repair](Sprint6/Module4/JDS_SHR_224_guided_project_notes_TanzaniaWaterPumpCaseStudyConfusionMatrixPrecisionRecallClassificationThresholdsPredictedProbailities.ipynb)
 
 - 🌱 I’m currently learning **statistical modeling, machine learning, linear regression, ridge regression, logistic regression, decision trees, random forests, data wrangling, exploratory data analysis**
