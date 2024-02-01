@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tsangrebecca](https://github.com/tsangrebecca)
 
-- 💬 Ask me about **Python, scikit-learn, pandas, numpy, seaborn, matplotlib**
+- 💬 Ask me about **Python, scikit-learn, pandas, numpy, seaborn, matplotlib, SQL**
 
 - 📫 How to reach me **tsang.y.rebecca@gmail.com**
 
