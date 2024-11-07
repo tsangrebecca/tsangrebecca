@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rebecca Tsang</h1>
 <h3 align="center">A passionate data scientist with a background in geology and gemology</h3>
 
-- 🔭 I recently worked on [Predicting whether a water pump in Tanzania needs a repair](https://github.com/tsangrebecca/BloomTech/blob/5c92025b33eacb43b761b79586994aadde537288/Sprint6/Module4/JDS_SHR_224_guided_project_notes_TanzaniaWaterPumpCaseStudyConfusionMatrixPrecisionRecallClassificationThresholdsPredictedProbailities.ipynb)
+- 🔭 I recently worked on [Predicting the Likely Author of a Hypothetical Tweet](https://github.com/tsangrebecca/twit_off)
 
-- 🌱 I’m currently learning **statistical modeling, machine learning, linear regression, ridge regression, logistic regression, decision trees, random forests, data wrangling, exploratory data analysis**
+- 🌱 I’m currently practicing **statistical modeling, exploratory data analysis, machine learning, different types of regression, decision trees and random forests, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tsangrebecca](https://github.com/tsangrebecca)
 
