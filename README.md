@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rebecca Tsang</h1>
 <h3 align="center">A passionate data scientist with a background in geology and gemology</h3>
 
-- 🔭 I recently worked on [Predicting the Likely Author of a Hypothetical Tweet](https://github.com/tsangrebecca/twit_off)
+- 🔭 I recently worked on [Predicting the Functionality of a Water Pump in Tanzania](https://github.com/tsangrebecca/DataProjects/blob/main/Tanzania_Water_Pump_Dataset_from_Kaggle_com.ipynb)
 
 - 🌱 I’m currently practicing **statistical modeling, exploratory data analysis, machine learning, different types of regression, decision trees and random forests, etc.**
 
