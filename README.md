@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rebecca Tsang</h1>
 <h3 align="center">A passionate data scientist with a background in geology and gemology</h3>
 
-- 🔭 I recently worked on [Predicting the Functionality of a Water Pump in Tanzania](https://github.com/tsangrebecca/DataProjects/blob/main/Tanzania_Water_Pump_Dataset_from_Kaggle_com.ipynb)
+- 🔭 Project Video Demos [Predicting the Functionality of a Water Pump in Tanzania](https://www.loom.com/share/743c38d6ca4a405cb5945bb1711f7c79)
+- [Predicting the Rank of a Hypothetical Monster](https://www.loom.com/share/c0e8c96ed3df4eccb86c651a677609ca?sid=b4d597c6-9e83-49d4-9eef-bcd070959e5b)
+- [Predicting Home Prices in Iowa Using Regression Models](https://www.loom.com/share/31366bb67f604d008fa90ff3cac40683?sid=4f8885c3-341d-4d2c-a645-bd309d571b5f)
 
 - 🌱 I’m currently practicing **statistical modeling, exploratory data analysis, machine learning, different types of regression, decision trees and random forests, etc.**
 
