@@ -5,7 +5,7 @@
 - [Predicting the Rank of a Video Game Character](https://www.loom.com/share/c0e8c96ed3df4eccb86c651a677609ca?sid=b4d597c6-9e83-49d4-9eef-bcd070959e5b)
 - [Predicting Home Prices in Iowa Using Regression Models](https://www.loom.com/share/31366bb67f604d008fa90ff3cac40683?sid=4f8885c3-341d-4d2c-a645-bd309d571b5f)
 
-- 🌱 I’m currently practicing **statistical modeling, exploratory data analysis, machine learning, different types of regression, decision trees and random forests, SQL, and of course code challenge questions, etc.**
+- 🌱 I’m currently practicing **statistical modeling, exploratory data analysis, machine learning, SQL, regressions, decision trees and random forests, and algorithm problems, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tsangrebecca](https://github.com/tsangrebecca)
 
